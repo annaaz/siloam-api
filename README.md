@@ -12,13 +12,13 @@ Coverage : Product Controller
 
 Locally setup guideline : 
 ::First Step 
-1. Initati with clone github repository 
-2. Database initalize : `CREATE DATABASE siloam;`
-3. Make sure double check in .env and config.json file , use correct credential
-4. Run Migation and seeding database with :
+1. Initati with clone github repository
+2. Run npm install `npm install`
+3. Database initalize : `CREATE DATABASE siloam;`
+4. Make sure double check in .env and config.json file , use correct credential
+5. Run Migation and seeding database with :
 `npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all`
 Make sure your sequelize-cli and sequelize packages are installed, and your configuration files (e.g., .sequelizerc or config/config.js) are properly set up.
-5. Run npm install `npm install`
-6. Check package json for available script . 
+7. Check package json for available script . 
 
 

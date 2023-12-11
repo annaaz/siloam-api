@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78e85b04-846c-410f-b645-125883584925" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/siloam-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/20231209035741-create_users_table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/20231209041754-create_products_table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seeders/20231209144535-product-seeder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seeders/20231209144855-user-seeder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__test__/product.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cache/cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/sequelize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/auth.controllers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/product.controllers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/deserializedToken.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/product.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/auth.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/product.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/product.services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/product.type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/user.type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hashing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/jwt.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations/auth.validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations/product.validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations/user.validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZNUuYGsWYd0QpOnIbG9hQgqzjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rplusn5607/Public/siloam-api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/rplusn5607/Public/siloam-api/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e85b04-846c-410f-b645-125883584925" name="Changes" comment="" />
+      <created>1702262256302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702262256302</updated>
+      <workItem from="1702262262647" duration="1791000" />
+      <workItem from="1702264081788" duration="106000" />
+      <workItem from="1702264714814" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
